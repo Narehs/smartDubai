@@ -6,8 +6,8 @@ import java.util.Map;
 public enum BookType {
     FICTION(15),
     COMIC(0),
-    Fantasy(10),
-    Crime(10),
+    FANTASY(10),
+    CRIME(10),
     TECHNOLOGY(0),
     DRAMA(5),
     ROMANCE(20),
